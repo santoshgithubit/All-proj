@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/dateconverter/BuildConfig.java
+ com.example.dateconverter.BuildConfig

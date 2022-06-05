@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\santoos\Desktop\work\DateConverterStart-master\build\windows\CMakeFiles\9a4e4eb534a37fa1c286a25c2a6980b1\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{73EF6935-C0F4-3C49-8475-00D74A561A15}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

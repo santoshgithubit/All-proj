@@ -1,0 +1,10 @@
+^C:\USERS\SANTOOS\DESKTOP\WORK\DATECONVERTERSTART-MASTER\BUILD\WINDOWS\CMAKEFILES\790F1B6FEBC3E57710F9254FC9BFD2CD\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/url_launcher_windows_plugin.dll
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/santoos/Desktop/work/DateConverterStart-master/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
